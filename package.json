@@ -1,0 +1,21 @@
+{
+  "name": "capitalization-first-letters-sentence",
+  "version": "1.0.0",
+  "description": "A simple utility to capitalize the first letter of each sentence in a text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "capitalize", 
+    "text", 
+    "sentences"
+  ],
+  "author": "Alex Teremizov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTerem2003/capitalization-first-letters-sentence.git"
+  },
+  "homepage": "https://github.com/AlexTerem2003/capitalization-first-letters-sentence"
+}
